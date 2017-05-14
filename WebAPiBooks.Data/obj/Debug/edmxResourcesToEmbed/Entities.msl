@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WebApiModelStoreContainer" CdmEntityContainer="WebApiEntities">
+    <EntitySetMapping Name="Employee">
+      <EntityTypeMapping TypeName="WebApiModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="CIT_Percentage" ColumnName="CIT_Percentage" />
+          <ScalarProperty Name="PF_Percentage" ColumnName="PF_Percentage" />
+          <ScalarProperty Name="NetSalary" ColumnName="NetSalary" />
+          <ScalarProperty Name="CitizenshipNumber" ColumnName="CitizenshipNumber" />
+          <ScalarProperty Name="PassportNumber" ColumnName="PassportNumber" />
+          <ScalarProperty Name="CreditBalance" ColumnName="CreditBalance" />
+          <ScalarProperty Name="AvailableLeave" ColumnName="AvailableLeave" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

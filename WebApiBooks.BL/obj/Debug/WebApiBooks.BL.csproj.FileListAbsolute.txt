@@ -1,0 +1,15 @@
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebApiBooks.BL.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebApiBooks.BL.pdb
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebAPiBooks.Data.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebAPiBooks.Model.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebApiBooks.Services.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\EntityFramework.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebAPiBooks.IRepository.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebAPiBooks.Data.pdb
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebAPiBooks.Model.pdb
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebApiBooks.Services.pdb
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\EntityFramework.xml
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\bin\Debug\WebAPiBooks.IRepository.pdb
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\obj\Debug\WebApiBooks.BL.csprojResolveAssemblyReference.cache
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\obj\Debug\WebApiBooks.BL.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.BL\obj\Debug\WebApiBooks.BL.pdb

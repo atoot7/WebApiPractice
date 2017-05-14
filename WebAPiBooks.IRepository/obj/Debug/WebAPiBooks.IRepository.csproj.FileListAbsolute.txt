@@ -1,0 +1,9 @@
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\bin\Debug\WebAPiBooks.IRepository.dll
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\bin\Debug\WebAPiBooks.IRepository.pdb
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\bin\Debug\WebAPiBooks.Data.dll
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\bin\Debug\EntityFramework.dll
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\bin\Debug\WebAPiBooks.Data.pdb
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\bin\Debug\EntityFramework.xml
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\obj\Debug\WebAPiBooks.IRepository.csprojResolveAssemblyReference.cache
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\obj\Debug\WebAPiBooks.IRepository.dll
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.IRepository\obj\Debug\WebAPiBooks.IRepository.pdb

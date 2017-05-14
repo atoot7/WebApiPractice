@@ -1,0 +1,10 @@
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\bin\Debug\WebAPiBooks.Data.dll.config
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\bin\Debug\WebAPiBooks.Data.dll
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\bin\Debug\WebAPiBooks.Data.pdb
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\bin\Debug\EntityFramework.dll
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\bin\Debug\EntityFramework.xml
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\obj\Debug\WebAPiBooks.Data.csprojResolveAssemblyReference.cache
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\obj\Debug\WebAPiBooks.Data.dll
+D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Data\obj\Debug\WebAPiBooks.Data.pdb

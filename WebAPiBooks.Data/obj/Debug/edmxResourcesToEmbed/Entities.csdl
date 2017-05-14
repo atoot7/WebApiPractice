@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WebApiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Salary" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="CIT_Percentage" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="PF_Percentage" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="NetSalary" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="CitizenshipNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PassportNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CreditBalance" Type="Decimal" Precision="18" Scale="3" />
+    <Property Name="AvailableLeave" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="WebApiEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employee" EntityType="Self.Employee" />
+  </EntityContainer>
+</Schema>

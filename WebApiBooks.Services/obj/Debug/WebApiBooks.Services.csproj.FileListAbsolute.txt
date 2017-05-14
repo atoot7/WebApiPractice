@@ -1,0 +1,14 @@
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\WebApiBooks.Services.dll.config
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\WebApiBooks.Services.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\WebApiBooks.Services.pdb
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\EntityFramework.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\WebAPiBooks.Data.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\WebAPiBooks.IRepository.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\WebAPiBooks.Data.pdb
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\WebAPiBooks.IRepository.pdb
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\EntityFramework.xml
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\obj\Debug\WebApiBooks.Services.csprojResolveAssemblyReference.cache
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\obj\Debug\WebApiBooks.Services.dll
+D:\Documents\Practice\WebAPiBooks\WebApiBooks.Services\obj\Debug\WebApiBooks.Services.pdb
