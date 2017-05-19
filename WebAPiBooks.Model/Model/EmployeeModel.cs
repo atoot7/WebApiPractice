@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebAPiBooks.Model
+namespace WebAPiBooks.Model.Model
 {
     public class EmployeeModel
     {

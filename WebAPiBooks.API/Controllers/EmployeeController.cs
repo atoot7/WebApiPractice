@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using WebApiBooks.BL.EmployeeBL;
 using WebAPiBooks.API.Controllers;
-using WebAPiBooks.Model;
+using WebAPiBooks.Model.Model;
 
 namespace WebAPiBooks.API.Controllers
 {
@@ -17,29 +17,92 @@ namespace WebAPiBooks.API.Controllers
             var result = _businesslogic.Delete(Id);
             if (result)
             {
-                return Request.CreateResponse(HttpStatusCode.OK, "Item deleted successfully!");
+                var model = new ApiResultModel("Employee successfully deleted!")
+                {
+                    ResultStatus = true
+                };
+                return Request.CreateResponse(HttpStatusCode.OK, model);
             }
-            return Request.CreateErrorResponse(HttpStatusCode.NotFound, "Item cannot be deleted!");
+            else
+            {
+                return Request.CreateResponse(HttpStatusCode.OK, new ApiResultModel("Item cannot be deleted!"));
+            }
         }
 
         public override HttpResponseMessage Get()
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _businesslogic.List();
+                var model = new ApiResultModel("Item retrieved!")
+                {
+                    ResultStatus = true,
+                    Data = result
+                };
+                return Request.CreateResponse(HttpStatusCode.OK, model);
+            }
+            catch (Exception)
+            {
+                return Request.CreateResponse(HttpStatusCode.OK, new ApiResultModel("Item cannot be deleted!"));
+
+            }
         }
 
         public override HttpResponseMessage Get(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _businesslogic.Detail(id);
+                var model = new ApiResultModel("Details retrieved")
+                {
+                    Data = result,
+                    ResultStatus = true
+                };
+                return Request.CreateResponse(HttpStatusCode.OK, model);
+
+            }
+            catch (Exception)
+            {
+                return Request.CreateResponse(HttpStatusCode.OK, new ApiResultModel("Item cannot be deleted!"));
+
+            }
         }
 
         public override HttpResponseMessage Post(EmployeeModel model)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _businesslogic.Create(model);
+                var resultModel = new ApiResultModel("Employee created successfully!")
+                {
+                    ResultStatus = true
+                };
+                return Request.CreateResponse(HttpStatusCode.OK, resultModel);
+
+            }
+            catch (Exception)
+            {
+                return Request.CreateResponse(HttpStatusCode.OK, new ApiResultModel("Item cannot be deleted!"));
+
+            }
         }
 
         public override HttpResponseMessage Put(EmployeeModel model)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _businesslogic.Update(model);
+                var resultModel = new ApiResultModel("Employee created successfully!")
+                {
+                    ResultStatus = true
+                };
+                return Request.CreateResponse(HttpStatusCode.OK, resultModel);
+
+            }
+            catch (Exception)
+            {
+                return Request.CreateResponse(HttpStatusCode.OK, new ApiResultModel("Item cannot be deleted!"));
+            }
         }
     }
 }

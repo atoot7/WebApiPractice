@@ -3,3 +3,8 @@ D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Model\bin\Debug\WebAPiBooks.Model.
 D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Model\obj\Debug\WebAPiBooks.Model.csprojResolveAssemblyReference.cache
 D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Model\obj\Debug\WebAPiBooks.Model.dll
 D:\Documents\Practice\WebAPiBooks\WebAPiBooks.Model\obj\Debug\WebAPiBooks.Model.pdb
+E:\GITRepository\WebApiPractice\WebAPiBooks.Model\bin\Debug\WebAPiBooks.Model.dll
+E:\GITRepository\WebApiPractice\WebAPiBooks.Model\bin\Debug\WebAPiBooks.Model.pdb
+E:\GITRepository\WebApiPractice\WebAPiBooks.Model\obj\Debug\WebAPiBooks.Model.csprojResolveAssemblyReference.cache
+E:\GITRepository\WebApiPractice\WebAPiBooks.Model\obj\Debug\WebAPiBooks.Model.dll
+E:\GITRepository\WebApiPractice\WebAPiBooks.Model\obj\Debug\WebAPiBooks.Model.pdb

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WebApiBooks.Services.Employees;
 using WebAPiBooks.Data;
-using WebAPiBooks.Model;
+using WebAPiBooks.Model.Model;
 
 namespace WebApiBooks.BL.EmployeeBL
 {
